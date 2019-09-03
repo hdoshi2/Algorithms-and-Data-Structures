@@ -6,6 +6,7 @@
 1. TwoNumberSum
 2. MatchingParens
 3. Anagrams
+4. FizzBuzz
 
 
 To get started:
