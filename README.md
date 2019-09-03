@@ -5,6 +5,7 @@
 ### Arrays
 1. TwoNumberSum
 2. MatchingParens
+3. Anagrams
 
 
 To get started:
