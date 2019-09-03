@@ -7,6 +7,7 @@
 2. MatchingParens
 3. Anagrams
 4. FizzBuzz
+5. FindMissingNumber
 
 ### Data-Structures
 1. SinglyLinkedList
