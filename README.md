@@ -1,5 +1,11 @@
 # Algorithms and Data-Structure
 
+## Algo Index
+
+### Arrays
+1. TwoNumberSum
+2. MatchingParens
+
 
 To get started:
 
