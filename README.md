@@ -8,6 +8,9 @@
 3. Anagrams
 4. FizzBuzz
 
+### Data-Structures
+1. SinglyLinkedList
+
 
 To get started:
 
