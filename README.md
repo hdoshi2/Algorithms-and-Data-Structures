@@ -12,6 +12,10 @@
 ### Data-Structures
 1. SinglyLinkedList
 
+### Miscellaneous
+1. Binary to Number
+2. Number to Binary
+
 
 To get started:
 
