@@ -14,6 +14,7 @@
 2. calorieTracker
 3. numberToBinary
 4. palindromPossibility
+5. oneWay
 
 ### Data-Structures
 1. SinglyLinkedList
