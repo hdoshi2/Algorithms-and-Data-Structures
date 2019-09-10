@@ -9,12 +9,17 @@
 4. FizzBuzz
 5. FindMissingNumber
 
+### Strings
+1. binaryToNumber
+2. calorieTracker
+3. numberToBinary
+4. palindromPossibility
+
 ### Data-Structures
 1. SinglyLinkedList
 
 ### Miscellaneous
-1. Binary to Number
-2. Number to Binary
+1. Promises
 
 
 To get started:
